@@ -21,40 +21,31 @@ subtitle: "AI Development"
 
 ## Planned Portfolio Projects
 
-### Project 1: Predictive Maintenance System
-- **Objective**: ML model to predict equipment failures
-- **Data**: Historical sensor data from industrial equipment
-- **Techniques**: Time-series analysis, classification algorithms
-- **Tools**: Python, scikit-learn, pandas
+### Project 1: Predictive Modeling with Historical Time-Series Data
+- **Objective**: ML model (LSTM/XGBoost) that analyzes historical data to forecast future trends
+- **Application**: Industrial output, resource demand, or financial metrics forecasting
+- **Features**: Dynamic visualizations and real-time predictions for operational decision-making
+- **Techniques**: LSTM, XGBoost, time-series analysis
+- **Tools**: Python, LSTM, XGBoost
 
-### Project 2: Anomaly Detection
-- **Objective**: Unsupervised learning system for sensor readings
-- **Data**: Real-time sensor data streams
-- **Techniques**: Isolation Forest, One-Class SVM, Autoencoders
-- **Tools**: Python, TensorFlow
+### Project 2: AI-Powered Script-to-Video Generation Pipeline
+- **Objective**: Comprehensive pipeline that transforms written scripts into short video content
+- **Technology**: LLMs, image/video APIs, and voice synthesis
+- **Features**: Advanced AI coordination across language processing, media generation, and rendering
+- **Techniques**: LLM integration, video generation, voice synthesis
+- **Tools**: Python, LLM, Video Generation APIs
 
-### Project 3: NLP for Technical Documentation
-- **Objective**: NLP system to analyze technical documents
-- **Data**: Technical manuals, bug reports, documentation
-- **Techniques**: Text classification, sentiment analysis
-- **Tools**: Python, NLTK, spaCy
-
-### Project 4: Computer Vision for Quality Control
-- **Objective**: Computer vision system for quality inspection
-- **Data**: Images of manufactured products
-- **Techniques**: Convolutional Neural Networks, object detection
-- **Tools**: Python, OpenCV, TensorFlow
-
-### Project 5: Reinforcement Learning for Process Optimization
-- **Objective**: RL agent to optimize industrial processes
-- **Data**: Process control data and performance metrics
-- **Techniques**: Q-learning, policy gradients
-- **Tools**: Python, Gym, TensorFlow
+### Project 3: Natural Language Agent for Structured Data Analysis
+- **Objective**: Intelligent AI agent that interprets natural language queries and analyzes data sources
+- **Application**: Uploaded or connected data sources (e.g., CSVs)
+- **Features**: Leverages LLM technology to provide accurate, human-readable answers and visual insights
+- **Techniques**: LLM integration, natural language processing, data analysis
+- **Tools**: Python, LLM, Data Analysis libraries
 
 ## Skills:
 - **Supervised Learning**: Classification, regression, time-series forecasting
 - **Unsupervised Learning**: Clustering, anomaly detection
-- **Deep Learning**: Neural networks, CNNs, RNNs
+- **Deep Learning**: Neural networks, CNNs, RNNs, LSTM
 - **Model Deployment**: Docker containers, API development
 - **Data Engineering**: Feature engineering, data preprocessing
 

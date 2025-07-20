@@ -15,7 +15,7 @@ subtitle: "Backend Systems & Architecture"
 
 ### System Architecture:
 - **Microservices**: Scalable systems using containerized microservices
-- **API Design**: RESTful and WebSocket APIs for real-time communication
+- **API Design**: FastAPI's and WebSocket APIs for real-time communication
 - **Database Optimization**: Efficient query patterns and indexing
 - **Load Balancing**: Systems to handle high-volume data streams
 
@@ -23,26 +23,23 @@ subtitle: "Backend Systems & Architecture"
 - **Docker**: Containerizing applications for consistent deployment
 - **CI/CD**: Automating build, test, and deployment processes
 - **Monitoring**: Comprehensive monitoring and logging systems
-- **Infrastructure**: Managing cloud and on-premises infrastructure
 
 ### Frontend Integration:
 - **Data Visualization**: Dashboards and charts for real-time data
-- **User Interface**: Intuitive interfaces for industrial operators
 - **Real-time Updates**: WebSocket connections for live data
 - **Responsive Design**: Interfaces for different devices and screens
 
 ### Technical Stack:
-- **Backend**: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis
-- **Frontend**: HTML, CSS, JavaScript, Chart.js, WebSocket
+- **Backend**: Python, FastAPI, SQL, Redis, Docker, Kubernetes, MQTT
+- **Frontend**: HTML, CSS, JavaScript, React, Next.js
 - **DevOps**: Docker, Git, CI/CD, monitoring tools
-- **Data Processing**: Pandas, NumPy, real-time streaming
-- **Communication**: MQTT, REST APIs, WebSocket
+- **Communication**: MQTT, Fast APIs, WebSocket
 
 ### Key Projects:
-- **Industrial Data Pipeline**: End-to-end system for sensor data
+- **Industrial Data Pipeline**: End-to-end systems for data extraction and processing
 - **Real-time Dashboard**: Web interface for monitoring processes
 - **API Gateway**: Centralized API management
-- **Data Processing Engine**: High-performance data analysis system
+- **Data Processing Engine**: High-performance data analysis systems
 
 ### Performance & Security:
 - **Query Optimization**: Reducing query times for large datasets
