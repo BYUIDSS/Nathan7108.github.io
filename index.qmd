@@ -1,10 +1,41 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "About Me"
+subtitle: "My Software Engineering & Data Science Portfolio"
+format: html
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Hello, I'm Nathan Luckock
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Full-Time Software Developer & Computer Science Student
+
+I build real-world backend systems that connect industrial data to modern platforms. My work spans API development, data streaming, containerized deployment, and cloud integration.
+
+I’m currently studying Computer Science at BYU–Idaho while working full-time as a software developer. My stack includes FastAPI, Docker, Redis, MQTT, and Kubernetes — and I’ve built scalable services used in production.
+
+## What I’ve Done
+
+- Designed and deployed ODBC interface services using FastAPI  
+- Integrated MQTT for real-time streaming from industrial systems  
+- Built extractors to move crypto and industrial data into modern storage (T-Store)  
+- Used Docker and Kubernetes for portable, efficient deployments  
+- Created custom polling and caching layers using Redis
+
+## What I'm Exploring
+
+I’m transitioning into data science with plans to build:
+
+- **Predictive Modeling with Historical Time-Series Data** An ML model (LSTM/XGBoost) that analyzes historical data to forecast future trends in industrial output, resource demand, or financial metrics. Features dynamic visualizations and real-time predictions for operational decision-making.
+
+  
+- **AI-Powered Script-to-Video Generation Pipeline** A comprehensive pipeline that transforms written scripts into short video content using LLMs, image/video APIs, and voice synthesis. Demonstrates advanced AI coordination across language processing, media generation, and rendering tasks.
+
+  
+- **Natural Language Agent for Structured Data Analysis** An intelligent AI agent that interprets natural language queries and analyzes uploaded or connected data sources (e.g., CSVs). Leverages LLM technology to provide accurate, human-readable answers and visual insights from real business data.
+ 
+## My Goal
+
+To combine backend engineering with applied AI and data science — building tools that are both intelligent and production-ready.
+
+## More Info
+
+[Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
