@@ -1,10 +1,53 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Full Stack Development"
+subtitle: "Backend Systems & Architecture"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Full Stack Development Experience
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Industrial Software Development
+
+### Backend Development:
+- **FastAPI Development**: Building high-performance APIs for data processing
+- **Database Design**: Designing databases for real-time sensor data
+- **Data Streaming**: MQTT-based systems for real-time data transmission
+- **Caching Strategies**: Efficient caching for high-frequency data access
+
+### System Architecture:
+- **Microservices**: Scalable systems using containerized microservices
+- **API Design**: RESTful and WebSocket APIs for real-time communication
+- **Database Optimization**: Efficient query patterns and indexing
+- **Load Balancing**: Systems to handle high-volume data streams
+
+### DevOps & Deployment:
+- **Docker**: Containerizing applications for consistent deployment
+- **CI/CD**: Automating build, test, and deployment processes
+- **Monitoring**: Comprehensive monitoring and logging systems
+- **Infrastructure**: Managing cloud and on-premises infrastructure
+
+### Frontend Integration:
+- **Data Visualization**: Dashboards and charts for real-time data
+- **User Interface**: Intuitive interfaces for industrial operators
+- **Real-time Updates**: WebSocket connections for live data
+- **Responsive Design**: Interfaces for different devices and screens
+
+### Technical Stack:
+- **Backend**: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis
+- **Frontend**: HTML, CSS, JavaScript, Chart.js, WebSocket
+- **DevOps**: Docker, Git, CI/CD, monitoring tools
+- **Data Processing**: Pandas, NumPy, real-time streaming
+- **Communication**: MQTT, REST APIs, WebSocket
+
+### Key Projects:
+- **Industrial Data Pipeline**: End-to-end system for sensor data
+- **Real-time Dashboard**: Web interface for monitoring processes
+- **API Gateway**: Centralized API management
+- **Data Processing Engine**: High-performance data analysis system
+
+### Performance & Security:
+- **Query Optimization**: Reducing query times for large datasets
+- **Caching**: Strategic caching to improve response times
+- **Authentication**: Secure access controls and data encryption
+- **Error Handling**: Robust error recovery and logging
+
+*This experience demonstrates building complete, production-ready systems that bridge industrial hardware with modern software solutions.*

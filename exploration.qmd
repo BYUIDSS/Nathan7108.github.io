@@ -1,10 +1,29 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Exploration"
+subtitle: "Industrial Data Analysis"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Data Exploration
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Industrial Sensor Data Analysis
+
+My work involves analyzing industrial sensor data to understand system behaviors and identify patterns.
+
+### Key Activities:
+- **Time-Series Analysis**: Examining temporal patterns in sensor readings
+- **Correlation Studies**: Finding relationships between different sensor types
+- **Anomaly Detection**: Identifying unusual patterns that indicate issues
+- **Performance Analysis**: Understanding system efficiency and optimization opportunities
+
+### Tools & Methods:
+- **Python**: pandas, numpy, matplotlib for data analysis
+- **SQL**: Extracting and analyzing data from industrial databases
+- **Statistical Analysis**: Understanding data distributions and trends
+- **Data Visualization**: Creating charts and dashboards for insights
+
+### Business Impact:
+- **Predictive Maintenance**: Using data patterns to predict equipment failures
+- **Performance Optimization**: Identifying inefficiencies through data analysis
+- **Risk Assessment**: Using historical data to assess potential system failures
+
+*This exploration work helps develop effective AI models and predictive systems for industrial operations.*

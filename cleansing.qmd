@@ -1,10 +1,29 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Cleansing"
+subtitle: "Industrial Data Processing & Validation"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Data Cleansing & Validation
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Industrial Data Extractor & Filtering System
+
+During my role at Transpara, I developed a comprehensive data extraction and filtering system for industrial sensor data. While not traditional "data cleansing," this work involved critical data quality processes:
+
+### Key Responsibilities:
+- **Data Validation**: Implemented validation rules to filter out corrupted sensor readings and invalid data points
+- **Duplicate Detection**: Created algorithms to identify and remove duplicate entries from real-time data streams
+- **Data Quality Assurance**: Built automated systems to ensure data integrity before processing by internal calculations
+
+### Technical Implementation:
+- **Real-time Processing**: Handled high-volume industrial data streams with minimal latency
+- **Error Handling**: Robust error recovery systems for data pipeline failures
+- **Performance Optimization**: Efficient filtering algorithms to handle large datasets
+- **Quality Metrics**: Automated reporting on data quality and filtering effectiveness
+
+### Impact:
+- Improved data reliability for data extractors and internal calculations
+- Reduced false positives in anomaly detection systems
+- Enhanced system performance through cleaner data streams
+- Established data quality standards for industrial applications
+
+*This experience taught me that effective data filtering is often more valuable than traditional "cleansing" in real-time industrial environments where data quality directly impacts operational decisions.*

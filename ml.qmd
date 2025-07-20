@@ -1,11 +1,62 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Machine Learning"
+subtitle: "AI Development"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# Machine Learning & AI Development
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Current AI Work
+
+### AI Agent Development:
+- **Real-time Processing**: AI agents that process industrial sensor data in real-time
+- **Predictive Modeling**: Models to predict equipment failures and maintenance needs
+- **Anomaly Detection**: Systems to identify unusual patterns in industrial data
+- **Automated Decisions**: AI systems that make operational decisions autonomously
+
+### Technical Implementation:
+- **Python ML Stack**: scikit-learn, TensorFlow, PyTorch for model development
+- **Real-time Inference**: Models that process data streams with minimal latency
+- **Model Monitoring**: Systems to track model performance and drift
+- **Integration**: Connecting AI models with existing industrial systems
+
+## Planned Portfolio Projects
+
+### Project 1: Predictive Maintenance System
+- **Objective**: ML model to predict equipment failures
+- **Data**: Historical sensor data from industrial equipment
+- **Techniques**: Time-series analysis, classification algorithms
+- **Tools**: Python, scikit-learn, pandas
+
+### Project 2: Anomaly Detection
+- **Objective**: Unsupervised learning system for sensor readings
+- **Data**: Real-time sensor data streams
+- **Techniques**: Isolation Forest, One-Class SVM, Autoencoders
+- **Tools**: Python, TensorFlow
+
+### Project 3: NLP for Technical Documentation
+- **Objective**: NLP system to analyze technical documents
+- **Data**: Technical manuals, bug reports, documentation
+- **Techniques**: Text classification, sentiment analysis
+- **Tools**: Python, NLTK, spaCy
+
+### Project 4: Computer Vision for Quality Control
+- **Objective**: Computer vision system for quality inspection
+- **Data**: Images of manufactured products
+- **Techniques**: Convolutional Neural Networks, object detection
+- **Tools**: Python, OpenCV, TensorFlow
+
+### Project 5: Reinforcement Learning for Process Optimization
+- **Objective**: RL agent to optimize industrial processes
+- **Data**: Process control data and performance metrics
+- **Techniques**: Q-learning, policy gradients
+- **Tools**: Python, Gym, TensorFlow
+
+## Skills:
+- **Supervised Learning**: Classification, regression, time-series forecasting
+- **Unsupervised Learning**: Clustering, anomaly detection
+- **Deep Learning**: Neural networks, CNNs, RNNs
+- **Model Deployment**: Docker containers, API development
+- **Data Engineering**: Feature engineering, data preprocessing
+
+*These projects will demonstrate both theoretical understanding and practical application of machine learning.*
 
