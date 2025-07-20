@@ -31,7 +31,7 @@ I'm transitioning into data science with plans to explore:
 
 ## My Goal
 
-To combine backend engineering with applied AI and data science — building tools that are both intelligent and production-ready.
+To combine backend engineering with applied AI and data science, building tools that are both intelligent and production-ready.
 
 ## More Info
 
