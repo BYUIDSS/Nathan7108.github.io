@@ -57,19 +57,19 @@
   {
     "objectID": "exploration.html",
     "href": "exploration.html",
-    "title": "about me",
+    "title": "Data Exploration",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "My work involves analyzing industrial sensor data to understand system behaviors and identify patterns.\n\n\n\nTime-Series Analysis: Examining temporal patterns in sensor readings\nCorrelation Studies: Finding relationships between different sensor types\nAnomaly Detection: Identifying unusual patterns that indicate issues\nPerformance Analysis: Understanding system efficiency and optimization opportunities\n\n\n\n\n\nPython: pandas, numpy, matplotlib for data analysis\nSQL: Extracting and analyzing data from industrial databases\nStatistical Analysis: Understanding data distributions and trends\nData Visualization: Creating charts and dashboards for insights\n\n\n\n\n\nPredictive Maintenance: Using data patterns to predict equipment failures\nPerformance Optimization: Identifying inefficiencies through data analysis\nRisk Assessment: Using historical data to assess potential system failures\n\nThis exploration work helps develop effective AI models and predictive systems for industrial operations.",
     "crumbs": [
       "Data Exploration"
     ]
   },
   {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
+    "objectID": "exploration.html#industrial-sensor-data-analysis",
+    "href": "exploration.html#industrial-sensor-data-analysis",
+    "title": "Data Exploration",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "My work involves analyzing industrial sensor data to understand system behaviors and identify patterns.\n\n\n\nTime-Series Analysis: Examining temporal patterns in sensor readings\nCorrelation Studies: Finding relationships between different sensor types\nAnomaly Detection: Identifying unusual patterns that indicate issues\nPerformance Analysis: Understanding system efficiency and optimization opportunities\n\n\n\n\n\nPython: pandas, numpy, matplotlib for data analysis\nSQL: Extracting and analyzing data from industrial databases\nStatistical Analysis: Understanding data distributions and trends\nData Visualization: Creating charts and dashboards for insights\n\n\n\n\n\nPredictive Maintenance: Using data patterns to predict equipment failures\nPerformance Optimization: Identifying inefficiencies through data analysis\nRisk Assessment: Using historical data to assess potential system failures\n\nThis exploration work helps develop effective AI models and predictive systems for industrial operations.",
     "crumbs": [
       "Data Exploration"
     ]
@@ -99,19 +99,19 @@
   {
     "objectID": "full_stack.html",
     "href": "full_stack.html",
-    "title": "about me",
+    "title": "Full Stack Development",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "FastAPI Development: Building high-performance APIs for data processing\nDatabase Design: Designing databases for real-time sensor data\nData Streaming: MQTT-based systems for real-time data transmission\nCaching Strategies: Efficient caching for high-frequency data access\n\n\n\n\n\nMicroservices: Scalable systems using containerized microservices\nAPI Design: RESTful and WebSocket APIs for real-time communication\nDatabase Optimization: Efficient query patterns and indexing\nLoad Balancing: Systems to handle high-volume data streams\n\n\n\n\n\nDocker: Containerizing applications for consistent deployment\nCI/CD: Automating build, test, and deployment processes\nMonitoring: Comprehensive monitoring and logging systems\nInfrastructure: Managing cloud and on-premises infrastructure\n\n\n\n\n\nData Visualization: Dashboards and charts for real-time data\nUser Interface: Intuitive interfaces for industrial operators\nReal-time Updates: WebSocket connections for live data\nResponsive Design: Interfaces for different devices and screens\n\n\n\n\n\nBackend: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis\nFrontend: HTML, CSS, JavaScript, Chart.js, WebSocket\nDevOps: Docker, Git, CI/CD, monitoring tools\nData Processing: Pandas, NumPy, real-time streaming\nCommunication: MQTT, REST APIs, WebSocket\n\n\n\n\n\nIndustrial Data Pipeline: End-to-end system for sensor data\nReal-time Dashboard: Web interface for monitoring processes\nAPI Gateway: Centralized API management\nData Processing Engine: High-performance data analysis system\n\n\n\n\n\nQuery Optimization: Reducing query times for large datasets\nCaching: Strategic caching to improve response times\nAuthentication: Secure access controls and data encryption\nError Handling: Robust error recovery and logging\n\nThis experience demonstrates building complete, production-ready systems that bridge industrial hardware with modern software solutions.",
     "crumbs": [
       "Full Stack"
     ]
   },
   {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
+    "objectID": "full_stack.html#industrial-software-development",
+    "href": "full_stack.html#industrial-software-development",
+    "title": "Full Stack Development",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "FastAPI Development: Building high-performance APIs for data processing\nDatabase Design: Designing databases for real-time sensor data\nData Streaming: MQTT-based systems for real-time data transmission\nCaching Strategies: Efficient caching for high-frequency data access\n\n\n\n\n\nMicroservices: Scalable systems using containerized microservices\nAPI Design: RESTful and WebSocket APIs for real-time communication\nDatabase Optimization: Efficient query patterns and indexing\nLoad Balancing: Systems to handle high-volume data streams\n\n\n\n\n\nDocker: Containerizing applications for consistent deployment\nCI/CD: Automating build, test, and deployment processes\nMonitoring: Comprehensive monitoring and logging systems\nInfrastructure: Managing cloud and on-premises infrastructure\n\n\n\n\n\nData Visualization: Dashboards and charts for real-time data\nUser Interface: Intuitive interfaces for industrial operators\nReal-time Updates: WebSocket connections for live data\nResponsive Design: Interfaces for different devices and screens\n\n\n\n\n\nBackend: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis\nFrontend: HTML, CSS, JavaScript, Chart.js, WebSocket\nDevOps: Docker, Git, CI/CD, monitoring tools\nData Processing: Pandas, NumPy, real-time streaming\nCommunication: MQTT, REST APIs, WebSocket\n\n\n\n\n\nIndustrial Data Pipeline: End-to-end system for sensor data\nReal-time Dashboard: Web interface for monitoring processes\nAPI Gateway: Centralized API management\nData Processing Engine: High-performance data analysis system\n\n\n\n\n\nQuery Optimization: Reducing query times for large datasets\nCaching: Strategic caching to improve response times\nAuthentication: Secure access controls and data encryption\nError Handling: Robust error recovery and logging\n\nThis experience demonstrates building complete, production-ready systems that bridge industrial hardware with modern software solutions.",
     "crumbs": [
       "Full Stack"
     ]
@@ -119,19 +119,39 @@
   {
     "objectID": "ml.html",
     "href": "ml.html",
-    "title": "about me",
+    "title": "Machine Learning",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Real-time Processing: AI agents that process industrial sensor data in real-time\nPredictive Modeling: Models to predict equipment failures and maintenance needs\nAnomaly Detection: Systems to identify unusual patterns in industrial data\nAutomated Decisions: AI systems that make operational decisions autonomously\n\n\n\n\n\nPython ML Stack: scikit-learn, TensorFlow, PyTorch for model development\nReal-time Inference: Models that process data streams with minimal latency\nModel Monitoring: Systems to track model performance and drift\nIntegration: Connecting AI models with existing industrial systems\n\n\n\n\n\n\n\n\nObjective: ML model to predict equipment failures\nData: Historical sensor data from industrial equipment\nTechniques: Time-series analysis, classification algorithms\nTools: Python, scikit-learn, pandas\n\n\n\n\n\nObjective: Unsupervised learning system for sensor readings\nData: Real-time sensor data streams\nTechniques: Isolation Forest, One-Class SVM, Autoencoders\nTools: Python, TensorFlow\n\n\n\n\n\nObjective: NLP system to analyze technical documents\nData: Technical manuals, bug reports, documentation\nTechniques: Text classification, sentiment analysis\nTools: Python, NLTK, spaCy\n\n\n\n\n\nObjective: Computer vision system for quality inspection\nData: Images of manufactured products\nTechniques: Convolutional Neural Networks, object detection\nTools: Python, OpenCV, TensorFlow\n\n\n\n\n\nObjective: RL agent to optimize industrial processes\nData: Process control data and performance metrics\nTechniques: Q-learning, policy gradients\nTools: Python, Gym, TensorFlow\n\n\n\n\n\n\nSupervised Learning: Classification, regression, time-series forecasting\nUnsupervised Learning: Clustering, anomaly detection\nDeep Learning: Neural networks, CNNs, RNNs\nModel Deployment: Docker containers, API development\nData Engineering: Feature engineering, data preprocessing\n\nThese projects will demonstrate both theoretical understanding and practical application of machine learning.",
     "crumbs": [
       "Machine Learning"
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
-    "title": "about me",
+    "objectID": "ml.html#current-ai-work",
+    "href": "ml.html#current-ai-work",
+    "title": "Machine Learning",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "Real-time Processing: AI agents that process industrial sensor data in real-time\nPredictive Modeling: Models to predict equipment failures and maintenance needs\nAnomaly Detection: Systems to identify unusual patterns in industrial data\nAutomated Decisions: AI systems that make operational decisions autonomously\n\n\n\n\n\nPython ML Stack: scikit-learn, TensorFlow, PyTorch for model development\nReal-time Inference: Models that process data streams with minimal latency\nModel Monitoring: Systems to track model performance and drift\nIntegration: Connecting AI models with existing industrial systems",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#planned-portfolio-projects",
+    "href": "ml.html#planned-portfolio-projects",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Objective: ML model to predict equipment failures\nData: Historical sensor data from industrial equipment\nTechniques: Time-series analysis, classification algorithms\nTools: Python, scikit-learn, pandas\n\n\n\n\n\nObjective: Unsupervised learning system for sensor readings\nData: Real-time sensor data streams\nTechniques: Isolation Forest, One-Class SVM, Autoencoders\nTools: Python, TensorFlow\n\n\n\n\n\nObjective: NLP system to analyze technical documents\nData: Technical manuals, bug reports, documentation\nTechniques: Text classification, sentiment analysis\nTools: Python, NLTK, spaCy\n\n\n\n\n\nObjective: Computer vision system for quality inspection\nData: Images of manufactured products\nTechniques: Convolutional Neural Networks, object detection\nTools: Python, OpenCV, TensorFlow\n\n\n\n\n\nObjective: RL agent to optimize industrial processes\nData: Process control data and performance metrics\nTechniques: Q-learning, policy gradients\nTools: Python, Gym, TensorFlow",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#skills",
+    "href": "ml.html#skills",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "Supervised Learning: Classification, regression, time-series forecasting\nUnsupervised Learning: Clustering, anomaly detection\nDeep Learning: Neural networks, CNNs, RNNs\nModel Deployment: Docker containers, API development\nData Engineering: Feature engineering, data preprocessing\n\nThese projects will demonstrate both theoretical understanding and practical application of machine learning.",
     "crumbs": [
       "Machine Learning"
     ]
@@ -172,19 +192,19 @@
   {
     "objectID": "story_telling.html",
     "href": "story_telling.html",
-    "title": "about me",
+    "title": "Story Telling",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "My role requires communicating between technical teams and business stakeholders.\n\n\n\nCTO Meetings: Regular discussions about system architecture and technical decisions\nProject Planning: Collaborating with leadership to plan new features\nTechnical Roadmaps: Presenting complex technical plans in business terms\nRisk Assessment: Communicating technical risks and solutions\n\n\n\n\n\nSenior Developer Work: Working with senior developers to debug system issues\nCode Reviews: Participating in technical discussions about code quality\nKnowledge Sharing: Documenting and explaining technical solutions\nProblem-Solving: Facilitating discussions to resolve complex bugs\n\n\n\n\n\nTechnical Documentation: Creating clear documentation for complex systems\nBug Analysis: Translating technical issues into clear problem statements\nSolution Presentations: Explaining technical solutions to different audiences\nProject Updates: Providing regular updates on progress and challenges\n\n\n\n\n\nSystem Issues: Explaining technical problems and recovery plans\nFeature Requests: Translating business needs into technical specifications\nPerformance Problems: Communicating system issues and solutions\nArchitecture Decisions: Explaining technical trade-offs and business impact\n\nEffective communication ensures all stakeholders understand technical challenges and solutions.",
     "crumbs": [
       "Story Telling"
     ]
   },
   {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
+    "objectID": "story_telling.html#bridging-technical-and-business-perspectives",
+    "href": "story_telling.html#bridging-technical-and-business-perspectives",
+    "title": "Story Telling",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "My role requires communicating between technical teams and business stakeholders.\n\n\n\nCTO Meetings: Regular discussions about system architecture and technical decisions\nProject Planning: Collaborating with leadership to plan new features\nTechnical Roadmaps: Presenting complex technical plans in business terms\nRisk Assessment: Communicating technical risks and solutions\n\n\n\n\n\nSenior Developer Work: Working with senior developers to debug system issues\nCode Reviews: Participating in technical discussions about code quality\nKnowledge Sharing: Documenting and explaining technical solutions\nProblem-Solving: Facilitating discussions to resolve complex bugs\n\n\n\n\n\nTechnical Documentation: Creating clear documentation for complex systems\nBug Analysis: Translating technical issues into clear problem statements\nSolution Presentations: Explaining technical solutions to different audiences\nProject Updates: Providing regular updates on progress and challenges\n\n\n\n\n\nSystem Issues: Explaining technical problems and recovery plans\nFeature Requests: Translating business needs into technical specifications\nPerformance Problems: Communicating system issues and solutions\nArchitecture Decisions: Explaining technical trade-offs and business impact\n\nEffective communication ensures all stakeholders understand technical challenges and solutions.",
     "crumbs": [
       "Story Telling"
     ]
@@ -235,19 +255,19 @@
   {
     "objectID": "cleansing.html",
     "href": "cleansing.html",
-    "title": "about me",
+    "title": "Data Cleansing",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "During my role at Transpara, I developed a comprehensive data extraction and filtering system for industrial sensor data. While not traditional “data cleansing,” this work involved critical data quality processes:\n\n\n\nData Validation: Implemented validation rules to filter out corrupted sensor readings and invalid data points\nDuplicate Detection: Created algorithms to identify and remove duplicate entries from real-time data streams\nData Quality Assurance: Built automated systems to ensure data integrity before processing by internal calculations\n\n\n\n\n\nReal-time Processing: Handled high-volume industrial data streams with minimal latency\nError Handling: Robust error recovery systems for data pipeline failures\nPerformance Optimization: Efficient filtering algorithms to handle large datasets\nQuality Metrics: Automated reporting on data quality and filtering effectiveness\n\n\n\n\n\nImproved data reliability for data extractors and internal calculations\nReduced false positives in anomaly detection systems\nEnhanced system performance through cleaner data streams\nEstablished data quality standards for industrial applications\n\nThis experience taught me that effective data filtering is often more valuable than traditional “cleansing” in real-time industrial environments where data quality directly impacts operational decisions.",
     "crumbs": [
       "Data Cleansing"
     ]
   },
   {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
+    "objectID": "cleansing.html#industrial-data-extractor-filtering-system",
+    "href": "cleansing.html#industrial-data-extractor-filtering-system",
+    "title": "Data Cleansing",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "During my role at Transpara, I developed a comprehensive data extraction and filtering system for industrial sensor data. While not traditional “data cleansing,” this work involved critical data quality processes:\n\n\n\nData Validation: Implemented validation rules to filter out corrupted sensor readings and invalid data points\nDuplicate Detection: Created algorithms to identify and remove duplicate entries from real-time data streams\nData Quality Assurance: Built automated systems to ensure data integrity before processing by internal calculations\n\n\n\n\n\nReal-time Processing: Handled high-volume industrial data streams with minimal latency\nError Handling: Robust error recovery systems for data pipeline failures\nPerformance Optimization: Efficient filtering algorithms to handle large datasets\nQuality Metrics: Automated reporting on data quality and filtering effectiveness\n\n\n\n\n\nImproved data reliability for data extractors and internal calculations\nReduced false positives in anomaly detection systems\nEnhanced system performance through cleaner data streams\nEstablished data quality standards for industrial applications\n\nThis experience taught me that effective data filtering is often more valuable than traditional “cleansing” in real-time industrial environments where data quality directly impacts operational decisions.",
     "crumbs": [
       "Data Cleansing"
     ]
@@ -401,19 +421,19 @@
   {
     "objectID": "competition.html",
     "href": "competition.html",
-    "title": "about me",
+    "title": "Competition",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I have no formal competition experience in data science or machine learning competitions.",
     "crumbs": [
       "Competition"
     ]
   },
   {
-    "objectID": "competition.html#title-2-header",
-    "href": "competition.html#title-2-header",
-    "title": "about me",
+    "objectID": "competition.html#current-status",
+    "href": "competition.html#current-status",
+    "title": "Competition",
     "section": "",
-    "text": "MarkDown Basics",
+    "text": "I have no formal competition experience in data science or machine learning competitions.",
     "crumbs": [
       "Competition"
     ]
